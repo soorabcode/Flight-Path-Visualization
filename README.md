@@ -16,5 +16,3 @@ A Python script that visualizes flight routes and finds the shortest path betwee
 - Highlights the shortest path in red
 - Displays distances between cities
 
-## Installation
-# ... rest of your README ...
